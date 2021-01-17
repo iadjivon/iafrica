@@ -25,9 +25,13 @@ The landing page can follow these examples.
     Header 
             - Sticky on laptop/ sandwich on mobile  
             - image, exerpt
-            - button to read more stories 
-            - button to tell your story 
-                - create a blog feature on the site linked to mongoDB 
+            - links to the rest of the pages 
+                - about 
+                - Our Stories: special edition
+                - Our stories
+                - projects 
+                - team
+                - contact
  <br>
 
     Text over image 
