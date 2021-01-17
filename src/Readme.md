@@ -18,9 +18,57 @@ Accompanying colors
 ## HomePage 
 The landing page can follow these examples.
 
-### `Text on the homepage`
-"Stories inspire everything we do" <br>
-"What's your story?"
+### `Sections on the homepage`
+
+<br>
+
+    Header 
+            - Sticky on laptop/ sandwich on mobile  
+            - image, exerpt
+            - button to read more stories 
+            - button to tell your story 
+                - create a blog feature on the site linked to mongoDB 
+ <br>
+
+    Text over image 
+        "Stories inspire everything we do" <br>
+        "What's your story?" 
+            - linked to the our stories page 
+
+<br>
+
+    Advertisement for the VAW Journal 
+            - image of the book 
+            - brief description of book 
+            - button to amazon site 
+            - button to our own site once it's up 
+
+
+<br>
+
+    A bit about the organization 
+            - mission 
+            - vision
+            - Button to the Projects landing page  
+     
+
+<br>
+
+    Selection of Stories  
+            - three stories/ more? carousel? 
+            - image, exerpt
+            - button to read more stories 
+            - button to tell your story 
+                - create a blog feature on the site linked to mongoDB 
+
+ <br>
+
+    Footer 
+            - three stories/ more? carousel? 
+            - image, exerpt
+            - button to read more stories 
+            - button to tell your story 
+                - create a blog feature on the site linked to mongoDB            
 
 ### `images on the homepage`
 
