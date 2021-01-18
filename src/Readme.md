@@ -5,7 +5,7 @@ The overall color scheme of the website are:
 
 Main colors
 
-    - Orange (add actual color)
+    - Orange (add hex code)
     - White 
     - Red 
 
