@@ -104,3 +104,5 @@ Reasons for change
 - Flexibility for more plug-ins and edits on the back end <br>
 
 With Bluehost we get hosting and domain for `$48.39` for the first year. The price then increases to `$108.87` in the second year.
+
+I will be changing to WordPress from Wix. 
