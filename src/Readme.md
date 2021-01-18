@@ -95,3 +95,10 @@ The teams page can follow these examples.
 ## Contact Page
 The contact page can follow these examples.  
 
+<hr>
+
+# WIX VS. WORDPRESS 
+Reasons for change
+- Price 
+- Versatility 
+- Flexibility for more plug-ins and edits on the back end 
