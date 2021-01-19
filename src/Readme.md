@@ -110,3 +110,4 @@ I will be changing to WordPress from Wix.
 The domain will remain the same and will be transferred over to the Bluehost 
 
 
+The renewal dates for both the webiste and the domain are in early February. 
