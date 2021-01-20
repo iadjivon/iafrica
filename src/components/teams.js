@@ -10,4 +10,16 @@ import React from 'react'
    <div> 
       Team member 2
    </div>
+
+   <div> 
+      Team member 3
+   </div>
+
+   <div> 
+      Team member 4
+   </div>
+
+   <div> 
+      Team member 5
+   </div>
 </div>
